@@ -1,12 +1,20 @@
 <div align="center">
 
-# eｊｅｒｃｉｃｉｏ
+# Resolución API
 ### Alumnos
-
 (𝙱á𝚜𝚒𝚌𝚘 - POST/GET estudiantes)  
 
 
 <img src="https://i.pinimg.com/1200x/62/92/87/6292878db61d36c92e7f9bc6262e039b.jpg" width="400">
+
+### Introducción
+
+En esta actividad se desarrolló una API utilizando Python y el framework Flask con el objetivo de registrar y consultar información de estudiantes dentro de una base de datos. La API permite almacenar datos como el nombre del estudiante, la carrera que cursa y el semestre en el que se encuentra.
+
+Para cumplir con el objetivo del ejercicio, se implementaron dos endpoints principales. El primero es un endpoint POST que permite agregar nuevos estudiantes a la base de datos, y el segundo es un endpoint GET que permite consultar todos los registros almacenados.
+
+Este proyecto tiene como finalidad practicar la creación de APIs, la conexión de una aplicación web con una base de datos y la realización de operaciones básicas de almacenamiento y consulta de información utilizando Flask.
+
 
 <br><br>
 
